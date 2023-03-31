@@ -1,0 +1,71 @@
+body{ 
+	padding: 10px;
+	background-color: #b9e6ea;
+	font-size: 125%;
+}
+
+h1{
+    font-size: 200%;
+    color: black;
+    padding: 10px 0px 5px 0px;
+}
+
+h2{
+    font-size: 14pt;
+    color: black;
+    padding: 0px, 0px, 10px, 0px
+}
+
+p{
+    font-size: 12pt;
+    color: rgb(8, 2, 57);
+    line-height: 1.15;
+    padding: 10px 10px 20px 10px;
+    background-color: #daf8fb;
+}
+
+dt{
+    font-weight: 600;
+    padding: 0px 0px 10px 0px;
+}
+
+dd{
+    font-weight: 500;
+    padding: 0px;
+}
+
+img{
+	width: 45%;
+	padding: 10px;
+	margin:5px 10px 20px 15px;
+	border: solid rgb(248, 84, 144) 5px;
+}
+
+li{
+
+}
+
+.skip{
+    position: absolute;
+    left: -1000px;
+}
+
+
+
+header{
+
+}
+
+nav{
+    color: rgb(221, 10, 115);
+
+}
+
+main{
+
+}
+
+footer{
+
+}
+
